@@ -1,0 +1,25 @@
+{
+  "name": "node-rebuildfm",
+  "version": "1.0.0",
+  "description": "rebuild.fm player in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watilde/node-rebuildfm.git"
+  },
+  "keywords": [
+    "rebuildfm"
+  ],
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/node-rebuildfm/issues"
+  },
+  "homepage": "https://github.com/watilde/node-rebuildfm#readme",
+  "dependencies": {
+    "xml2js": "^0.4.17"
+  }
+}
